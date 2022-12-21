@@ -3,9 +3,4 @@ function getComputerChoice(string1,string2,string3){
     console.log(arguments[Math.floor(rando)]);
 }
 
-getComputerChoice("rock","paper","scissors");
-
-function playRound(playerSelection, computerSelection) {
-
-
-}
+ 
